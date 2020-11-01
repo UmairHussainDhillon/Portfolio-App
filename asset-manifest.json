@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio-App/static/css/main.529dc804.chunk.css",
+    "main.js": "/Portfolio-App/static/js/main.6ea9b769.chunk.js",
+    "main.js.map": "/Portfolio-App/static/js/main.6ea9b769.chunk.js.map",
+    "runtime-main.js": "/Portfolio-App/static/js/runtime-main.43e74be6.js",
+    "runtime-main.js.map": "/Portfolio-App/static/js/runtime-main.43e74be6.js.map",
+    "static/js/2.9da40127.chunk.js": "/Portfolio-App/static/js/2.9da40127.chunk.js",
+    "static/js/2.9da40127.chunk.js.map": "/Portfolio-App/static/js/2.9da40127.chunk.js.map",
+    "static/js/3.a967add1.chunk.js": "/Portfolio-App/static/js/3.a967add1.chunk.js",
+    "static/js/3.a967add1.chunk.js.map": "/Portfolio-App/static/js/3.a967add1.chunk.js.map",
+    "index.html": "/Portfolio-App/index.html",
+    "static/css/main.529dc804.chunk.css.map": "/Portfolio-App/static/css/main.529dc804.chunk.css.map",
+    "static/js/2.9da40127.chunk.js.LICENSE.txt": "/Portfolio-App/static/js/2.9da40127.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Portfolio-App/static/media/umair.ebe5f76f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43e74be6.js",
+    "static/js/2.9da40127.chunk.js",
+    "static/css/main.529dc804.chunk.css",
+    "static/js/main.6ea9b769.chunk.js"
+  ]
+}
